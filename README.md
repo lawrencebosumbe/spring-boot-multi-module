@@ -1,1 +1,1 @@
-# sprintboot-multi-module
+# spring-boot-multi-module
